@@ -2,3 +2,8 @@ h1 {
   color: blue;
   background-color: pink;
 }
+
+p {
+  font-size: 2rem;
+  color: green;
+}
